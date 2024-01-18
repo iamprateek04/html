@@ -1,0 +1,19 @@
+1 =create the object of class A = done
+
+2= create the object of B
+
+3 = write down the variable of f
+
+4 = why the variable f is local variable
+
+5 = type of variable h and why reason
+
+6 = print the value of h
+
+7 =print the value of b
+
+8 = create a non static method of class test1 name of 
+the method will be your name and return data type will
+be integer
+
+9 = call the method of your name

@@ -1,0 +1,86 @@
+
+/*.two{
+    color:springgreen;
+}
+
+input[type='text']{
+    background-color: black;
+}
+
+a[href^='https']{
+    background-color: blueviolet; 
+    
+}*/
+
+a[href$='.in']{
+    background-color: greenyellow;
+}
+
+a[href*='com']{
+    background-color: aqua;
+}
+
+section p{
+    color: brown;
+}
+
+section > p{
+    color:gold;
+}
+
+div{
+    color:crimson;
+    width: 200px;
+    height: 20px;
+    transition: 3s;
+}
+
+div:hover{
+    background-color: blueviolet;
+    border-radius: 50%;
+}
+
+li:nth-of-type(even){
+    background-color: darkgoldenrod;
+}
+
+
+section{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+div{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+}
+
+div:nth-last-of-type(1){
+    background-color: blue;
+    flex-basis: 300px;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+div:nth-last-of-type(2){
+    background-color: green;
+   position: fixed;
+   top: 100px;
+   position: absolute;
+   
+}
+
+div:nth-last-of-type(3){
+    background-color: aqua;
+    flex-basis: 300px;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+

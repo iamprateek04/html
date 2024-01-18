@@ -1,0 +1,35 @@
+1.Wap to find sum of n natural no.
+n=5
+1+2+3+4+5
+
+sum=0+1=0(sum)
+0+i
+
+sum =1+2=3
+sum+2=sum+i
+
+sum=sum+3=sum+i
+3+3=6
+
+sum=sum+4=sum+i
+6+4=10
+
+sum=sum+5=sum+i
+10+5=15
+
+
+Algorithm.
+1.take scanner i/p for variable n
+2.start for loop from 1 to n to generate natural no.
+3.initialize sum=0
+4.inside the loop calculate sum using the formula
+"sum = sum+i"
+5. outside for loop print sum to display the o/p.
+
+2.Wap to find sum of n whole no.upto nth term.
+
+
+
+
+
+
